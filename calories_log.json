@@ -1,0 +1,55 @@
+[
+  {
+    "food": "crispy chicken sandwich",
+    "calories": 350,
+    "date": "2026-04-09"
+  },
+  {
+    "user": "Anil",
+    "food": "Salmon",
+    "calories": 208.0,
+    "protein": 20.4,
+    "fat": 13.4,
+    "carbs": 0.0,
+    "fiber": 0.0,
+    "sodium": 59.0,
+    "datetime": "2026-05-03 08:50:53.977847",
+    "date": "2026-05-03"
+  },
+  {
+    "user": "Anil",
+    "food": "Eggs",
+    "calories": 155.0,
+    "protein": 13.0,
+    "fat": 11.0,
+    "carbs": 1.1,
+    "fiber": 0.0,
+    "sodium": 124.0,
+    "datetime": "2026-05-03 08:50:57.572013",
+    "date": "2026-05-03"
+  },
+  {
+    "user": "Anil",
+    "food": "Chickpeas",
+    "calories": 164.0,
+    "protein": 8.9,
+    "fat": 2.6,
+    "carbs": 27.0,
+    "fiber": 7.6,
+    "sodium": 7.0,
+    "datetime": "2026-05-03 08:51:01.374252",
+    "date": "2026-05-03"
+  },
+  {
+    "user": "Anil",
+    "food": "Almonds",
+    "calories": 164.0,
+    "protein": 6.0,
+    "fat": 14.2,
+    "carbs": 5.9,
+    "fiber": 3.5,
+    "sodium": 1.0,
+    "datetime": "2026-05-03 08:51:07.891119",
+    "date": "2026-05-03"
+  }
+]
